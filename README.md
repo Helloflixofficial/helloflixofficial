@@ -10,21 +10,6 @@
 
 
 
-## Highlights
-<div align="left">
-  <a href="https://github.com/helloflixofficial/biblioteca-tcc">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloflixofficial&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="helloflixofficial" />
-  </a>
-</div>
-
-## Stats
-<div align="left">
-  <a href="https://github.com/helloflixofficial">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloflixofficial&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloflixofficial&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
-</div>
-
-
 
 
 
