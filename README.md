@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header]([https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header](https://wallpapercave.com/wp/wp13100987.png)")](https://wallpapercave.com/wp/wp13100987.png)
+[![Header](https://wallpapercave.com/wp/wp13100987.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 <!--
 **Helloflixofficial/helloflixofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
