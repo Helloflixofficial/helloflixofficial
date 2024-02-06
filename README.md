@@ -9,6 +9,29 @@
 </p>
 
 
+<p align="center">:round_pushpin: Profile views</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/helloflixofficial/count.svg">
+</div>
+
+## Highlights
+<div align="left">
+  <a href="https://github.com/helloflixofficial/biblioteca-tcc">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helloflixofficial&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="helloflixofficial" />
+  </a>
+</div>
+
+## Stats
+<div align="left">
+  <a href="https://github.com/helloflixofficial">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloflixofficial&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&&icon_color=fff&count_private=true&include_all_commits=true&disable_animations=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloflixofficial&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff&layout=compact"/>
+</div>
+
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=helloflixofficial&color=00a0a0&style=plastic)
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,6 +46,22 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
+![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![gsheets](https://img.shields.io/badge/Google-sheets-47A248?style=flat&logo=google-sheets&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![tailwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
+
+## 📚 Long way to go
+![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
+
 
  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
