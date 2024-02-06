@@ -9,10 +9,6 @@
 </p>
 
 
-<p align="center">:round_pushpin: Profile views</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/helloflixofficial/count.svg">
-</div>
 
 ## Highlights
 <div align="left">
