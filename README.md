@@ -2,10 +2,9 @@
 [![Header](https://wallpapercave.com/wp/wp13100987.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 
-
+![](https://komarev.com/ghpvc/?username=helloflixofficial&color=00a0a0&style=plastic)
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -18,6 +17,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+ <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
+   &emsp;
+
+
+
+<hr>
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)\
@@ -26,3 +33,27 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+
+
+
+
+My username is @helloflixofficial:
+```
+|| अंतः अस्ति प्रारंभः ||‌‎
+```
+---
+
+  ''' <img align="right" width="245" src="img/noctis.gif"/>'''
+
+
+
+## Technologies I'm interested to learn more 
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60">
+
+
+
+
+  
+
+  
