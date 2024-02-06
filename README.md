@@ -1,6 +1,13 @@
 ### Hi there 👋
 [![Header](https://wallpapercave.com/wp/wp13100987.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
+  <p align="center">
+<a href="https://github.com/helloflixofficial">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" /><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
+</a>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=helloflixofficial&color=00a0a0&style=plastic)
 
@@ -27,7 +34,6 @@
 <hr>
 
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)\
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)\
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -50,6 +56,10 @@ My username is @helloflixofficial:
 ## Technologies I'm interested to learn more 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60">
+
+
+<Br>
+
 
 
 
