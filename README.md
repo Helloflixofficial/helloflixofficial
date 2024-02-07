@@ -1,4 +1,4 @@
- <tr><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></a>
+
  
 [![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
 
@@ -20,10 +20,8 @@
 
 
 <table>
-    <td><a><img align="center" width="300" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
    <td><a><img align="center" width="600" src="https://clipart-library.com/new_gallery/675699_red-divider-png.png"/></a></td>
   </tr>
-
 <tr>
     <td>
       <table>
@@ -38,6 +36,7 @@
     </td>
      <td>
       <table>
+         <td><a><img align="center" width="600" src="https://clipart-library.com/new_gallery/675699_red-divider-png.png"/></a></td>
           <td>
       <tr>
   <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
@@ -181,7 +180,7 @@ My username is @helloflixofficial:
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60">
 
 
-
+  <td><a><img align="center" width="300" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
 
 <Br>
 
