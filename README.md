@@ -1,10 +1,9 @@
-<a><img align="center" width="1000" height="100em" src=""/></a>
-
+ <tr><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></a>
+ 
 [![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 
 <a href="https://github.com/helloflixofficial">
- <tr><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></a>
 <table>
   <td>
    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
