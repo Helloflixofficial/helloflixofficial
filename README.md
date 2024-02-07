@@ -1,13 +1,49 @@
-### Hi there 👋
 [![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
+<table>
+<tr>
+<td>
+⚙️ GitHub Analytics
+</td>
+</tr>
+</table>
 
+
+
+<a href="https://github.com/helloflixofficial">
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
+    </td>
+    <td>
+     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
+    </td>
+  </tr>
+</table>
+</a>
+
+
+<table>
+  <tr>
+    <td>
   <p align="center">
 <a href="https://github.com/helloflixofficial">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" /><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+   </td>
+  </tr>
+</table>
 </a>
 </p>
 
+
+<table>
+  <tr>
+    <td>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
+   &emsp;
+    </td>
+  </tr>
+</table>
 
 
 
@@ -15,7 +51,17 @@
 
 ![](https://komarev.com/ghpvc/?username=helloflixofficial&color=00a0a0&style=plastic)
 
-### 🛠 &nbsp;Tech Stack
+<hr>
+
+
+<table style="cols">
+    <tr>
+        <td>
+🛠 &nbsp;Tech Stack
+        </td>
+        </tr>
+</table>
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -39,13 +85,23 @@
 ![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![tailwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
 
+<hr>
+
+
 ## 📚 Long way to go
-![reactjs](https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white)
-![nextjs](https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white)
-
-
- <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+<hr>
+<table>
+  <tr>
+    <td>
+ <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
   &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;
+   </td>
+  </tr>
+</table>
+
+
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
    &emsp;
 
@@ -79,6 +135,8 @@ My username is @helloflixofficial:
 
 
 <Br>
+
+
 
   
 
