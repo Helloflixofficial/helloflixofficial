@@ -20,7 +20,7 @@
 
 
 <table>
-   <td><a><img align="center" width="600" src="https://clipart-library.com/new_gallery/675699_red-divider-png.png"/></a></td>
+   <td><a><img align="center" width="600" src="https://pngimg.com/uploads/katana/katana_PNG3.png"/></a></td>
   </tr>
 <tr>
     <td>
@@ -29,14 +29,13 @@
   <p align="center">
 <a href="https://github.com/helloflixofficial">
    <td>
-     <a href="#"><img height="300" src="https://i.pinimg.com/originals/24/5e/fc/245efc3faad9764dc44917f7c361b751.png"></a>
+     <a href="#"><img height="300" src="https://sxmyy.github.io/Vagabond/img/musashi_png_4.png"></a>
    &emsp;
     </td>
    </table>
     </td>
      <td>
       <table>
-         <td><a><img align="center" width="600" src="https://clipart-library.com/new_gallery/675699_red-divider-png.png"/></a></td>
           <td>
       <tr>
   <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
