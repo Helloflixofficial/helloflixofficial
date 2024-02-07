@@ -1,17 +1,19 @@
- <a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a>
+<a><img align="center" width="1000" height="100em" src=""/></a>
+
 [![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 
 <a href="https://github.com/helloflixofficial">
+ <tr><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></a>
 <table>
   <td>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
   </td>
     <td>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
     </td>
     <td>
-     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
+     <img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
     </td>
   </tr>
 </table>
@@ -29,7 +31,10 @@
         
   <p align="center">
 <a href="https://github.com/helloflixofficial">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+   <td>
+     <a href="#"><img height="300" src="https://i.pinimg.com/originals/24/5e/fc/245efc3faad9764dc44917f7c361b751.png"></a>
+   &emsp;
+    </td>
    </table>
     </td>
      <td>
@@ -59,21 +64,18 @@
   <tr>
 
 
-
-
-
-    
   <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
   &emsp;
    <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
   &emsp;         
-  <tr>
+ 
 
- <tr>
+
   <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
   &emsp;
    <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
-  &emsp;      
+  &emsp;
+ </tr>
   </td> 
 </table>
     </td>
@@ -85,7 +87,7 @@
 <table>
   <tr>
     <td>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
+     <a href="#"><img height="300" src="https://i.pinimg.com/originals/24/5e/fc/245efc3faad9764dc44917f7c361b751.png"></a>
    &emsp;
     </td>
   </tr>
@@ -178,6 +180,8 @@ My username is @helloflixofficial:
 ## Technologies I'm interested to learn more 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60">
+
+
 
 
 <Br>
