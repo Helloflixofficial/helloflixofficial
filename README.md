@@ -1,4 +1,8 @@
+<a>
+  <td><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
+  
 [![Header](https://utfs.io/f/e9e18976-cf1e-4b55-971a-3a633c395c44-bme1yl.jpg?raw=true "Header")](https://github.com/AntonioErdeljac)
+</a>
 <table>
 <tr>
 <td>
@@ -10,6 +14,7 @@
 
 
 <a href="https://github.com/helloflixofficial">
+  <td><a><img align="center" width="969" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
 <table>
   <tr>
     <td>
