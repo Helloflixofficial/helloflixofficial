@@ -80,10 +80,6 @@ My username is @helloflixofficial:
 
 <Br>
 
-
-
-
-<a href="https://app.daily.dev/helloflixofficial"><img src="https://api.daily.dev/devcards/105c54861b724b93a99b384f8d2e3431.png?r=km1" width="400" alt="BOBY SHARMA's Dev Card"/></a>
   
 
   
