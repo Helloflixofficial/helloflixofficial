@@ -24,14 +24,65 @@
 
 
 <table>
-  <tr>
+    <td><a><img align="center" width="300" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
+   <td><a><img align="center" width="600" src="https://clipart-library.com/new_gallery/675699_red-divider-png.png"/></a></td>
+  </tr>
+
+<tr>
     <td>
+      <table>
+        
   <p align="center">
 <a href="https://github.com/helloflixofficial">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
-   </td>
-  </tr>
+   </table>
+    </td>
+     <td>
+      <table>
+          <td>
+      <tr>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;
+  </td> 
+  <tr>
+
+  <tr>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;
+  </td> 
+  <tr>
+        <tr>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;      
+  </td> 
+  <tr>
+
+
+
+
+
+    
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;         
+  <tr>
+
+ <tr>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+  &emsp;      
+  </td> 
 </table>
+    </td>
+  </tr>
 </a>
 </p>
 
@@ -125,7 +176,7 @@ My username is @helloflixofficial:
 ```
 ---
 
-  ''' <img align="right" width="245" src="img/noctis.gif"/>'''
+ <img align="right" width="245" src="https://tse2.mm.bing.net/th?id=OIP.1_hXtG4jSft7V2RcCKOl8wHaLv&pid=Api&P=0&h=180"/>
 
 
 
