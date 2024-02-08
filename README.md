@@ -20,17 +20,27 @@
 
 
 <table>
-   <td><a><img align="center" width="600" src="https://pngimg.com/uploads/katana/katana_PNG3.png"/></a></td>
+   <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
+  <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
   </tr>
 <tr>
     <td>
       <table>
-        
   <p align="center">
 <a href="https://github.com/helloflixofficial">
    <td>
-     <a href="#"><img height="300" src="https://sxmyy.github.io/Vagabond/img/musashi_png_4.png"></a>
-   &emsp;
+<details>
+    <summary> <b>Fav Websites</b></summary><br/>
+          
+<!-- BLOG-POST-LIST:START -->
+
+- [![Header](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github?raw=true "Header")](https://github.com/AntonioErdeljac)
+- [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
+- [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
+- [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
+- [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
+<!-- BLOG-POST-LIST:END -->
+</details>
     </td>
    </table>
     </td>
@@ -38,44 +48,46 @@
       <table>
           <td>
       <tr>
-  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js"></a>
   &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"></a>
   &emsp;
   </td> 
   <tr>
 
   <tr>
-  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
   &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
   &emsp;
   </td> 
   <tr>
         <tr>
-  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
   &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"></a>
   &emsp;      
   </td> 
-  <tr>
 
-
-  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
-  &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
-  &emsp;         
+  
  
 
+<td>
+ <p>Basic Skills</p>
+  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
+  &emsp;         
+</td>
 
-  <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
+
+  <a href="#"><img align="top" src="https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=TailwindCSS"></a>
   &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
   &emsp;
- </tr>
+
   </td> 
 </table>
-    </td>
   </tr>
 </a>
 </p>
@@ -84,7 +96,7 @@
 <table>
   <tr>
     <td>
-     <a href="#"><img height="300" src="https://i.pinimg.com/originals/24/5e/fc/245efc3faad9764dc44917f7c361b751.png"></a>
+  <!--    <a href="#"><img src=""></a> -->
    &emsp;
     </td>
   </tr>
@@ -107,14 +119,8 @@
         </tr>
 </table>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -128,23 +134,9 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![gsheets](https://img.shields.io/badge/Google-sheets-47A248?style=flat&logo=google-sheets&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![tailwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
 
 <hr>
 
-
-## 📚 Long way to go
-<hr>
-<table>
-  <tr>
-    <td>
- <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js-0095D5?style=flat&logo=next.js&logoColor=white"></a>
-  &emsp;
-   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/ReactJS-0095D5?style=flat&logo=react&logoColor=white"></a>
-  &emsp;
-   </td>
-  </tr>
-</table>
 
 
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
@@ -184,7 +176,8 @@ My username is @helloflixofficial:
 <Br>
 
 
+## 🎧 Spotify Playing
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
 
-  
 
   
