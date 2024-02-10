@@ -18,22 +18,107 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
   </a>
     </td>
-  </tr>
+  </tr> 
 </table>
 </a>
 
 
-<p align="center">
-  <a href="https://github.com/helloflixofficial">
-    <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
+<div align="center">
+<a href="https://github.com/helloflixofficial">
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
   </a>
-</p>
-<table><tr><td valign="top" width="33%">
+</div>
+ 
+
+
+  
 
 
 
+
+<details>
+<p align="center">
+<table>
+ <td>Languages</td>
+ <td>back</td>
+ <td>op</td>
+ <tr>
+ <td valign="top" width="33%">
+   <!--------------------------------------------------------->
+<div align="center">
+ 
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/FujiwaraChoki)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/FujiwaraChoki)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/FujiwaraChoki)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/FujiwaraChoki)
+</div>
+</td>
+<td valign="top" width="33%">
+ <!--------------------------------------------------------->
+<div align="center">  
+<details
+    <summary> <b>Fav Websites</b></summary><br/>
+<!-- BLOG-POST-LIST:START -->
+ 
+- [![Header](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github?raw=true "Header")](https://github.com/AntonioErdeljac)
+<!-- BLOG-POST-LIST:END -->
+</details>
+</div>
+</td>
+<td valign="top" width="33%">
+
+ <!--------------------------------------------------------->
+<div align="center">  
+sweet Home
 
 <table>
+ <br>
+ <br>
+ <br>
+<td>
+ <p>Basic Skills</p>
+ <td>
+   <a href="#"><img align="top" alt="Nextjs" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>
+  &emsp;
+   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
+  &emsp; 
+ </td>
+ 
+</td>
+ 
+</table>
+         
+
+
+ 
+</div>
+</td>
+</tr>
+</table>  
+<br/>
+<br/>
+</details>
+<!---------------------                                                     END                                      ------------------------------------>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <table>
    <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
   <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
   </tr>
@@ -43,7 +128,7 @@
   <p align="center">
 <a href="https://github.com/helloflixofficial">
    <td>
-<details>
+<details
     <summary> <b>Fav Websites</b></summary><br/>
           
 <!-- BLOG-POST-LIST:START -->
@@ -176,7 +261,7 @@ My username is @helloflixofficial:
 ```
 ---
 
- <img align="right" width="245" src="https://tse2.mm.bing.net/th?id=OIP.1_hXtG4jSft7V2RcCKOl8wHaLv&pid=Api&P=0&h=180"/>
+<!-- <img align="right" width="245" src="https://tse2.mm.bing.net/th?id=OIP.1_hXtG4jSft7V2RcCKOl8wHaLv&pid=Api&P=0&h=180"/> -->
 
 
 
@@ -185,13 +270,13 @@ My username is @helloflixofficial:
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60">
 
 
-  <td><a><img align="center" width="300" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td>
+<!--  <td><a><img align="center" width="300" src="https://www.pngmart.com/files/12/Golden-Line-PNG-Photo.png"/></a></td> -->
 
 <Br>
 
 
-## 🎧 Spotify Playing
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+<!-- ## 🎧 Spotify Playing
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) -->
 
 
   
