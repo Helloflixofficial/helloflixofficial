@@ -23,6 +23,16 @@
 </a>
 
 
+<p align="center">
+  <a href="https://github.com/helloflixofficial">
+    <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
+  </a>
+</p>
+<table><tr><td valign="top" width="33%">
+
+
+
+
 <table>
    <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
   <td><a><img align="center" width="200" src="https://www.freeiconspng.com/uploads/mountain-png-32.png"/></a></td>
@@ -45,20 +55,6 @@
 - [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
 <!-- BLOG-POST-LIST:END -->
 </details>
-
-<details>
-<p align="center">
-  <a href="https://github.com/helloflixofficial">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
-  </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/helloflixofficial">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helloflixofficial&theme=transparent" />
-  </a>
-</p>
-<table><tr><td valign="top" width="33%">
     </td>
    </table>
     </td>
