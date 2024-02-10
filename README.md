@@ -6,13 +6,17 @@
 <a href="https://github.com/helloflixofficial">
 <table>
   <td>
-   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloflixofficial&theme=merko&layout=compact&langs_count=12&exclude_repo=gamebase&hide=objective-c,java,c,ruby,swift,kotlin,shell" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloflixofficial&hide_border=true&langs_count=12&layout=compact&theme=transparent" />
   </td>
     <td>
-      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helloflixofficial&count_private=true&show_icons=true&theme=merko" />
+     <a href="https://github.com/helloflixofficial">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helloflixofficial&theme=transparent" />
+  </a>
     </td>
     <td>
-     <img  height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&theme=merko"/>
+       <a href="https://github.com/helloflixofficial">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
+  </a>
     </td>
   </tr>
 </table>
@@ -41,6 +45,20 @@
 - [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
 <!-- BLOG-POST-LIST:END -->
 </details>
+
+<details>
+<p align="center">
+  <a href="https://github.com/helloflixofficial">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
+  </a>
+  <a href="https://github.com/FujiwaraChoki">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/helloflixofficial">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helloflixofficial&theme=transparent" />
+  </a>
+</p>
+<table><tr><td valign="top" width="33%">
     </td>
    </table>
     </td>
