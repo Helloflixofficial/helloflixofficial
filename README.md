@@ -160,6 +160,6 @@
 <br/>
 <br/>
 </details>
-<p align="left"> <a href="https://twitter.com/sharmajisenpai" target="blank"><img src="https://img.shields.io/twitter/follow/sharmajisenpai?logo=twitter&style=for-the-badge" alt="sharmajisenpai" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/sharmajisenpai" target="blank"><img src="https://img.shields.io/twitter/follow/sharmajisenpai?logo=twitter&style=for-the-badge" alt="sharmajisenpai" /></a> </p>
+ -->
 <!---------------------                                                     END                                      ------------------------------------>
