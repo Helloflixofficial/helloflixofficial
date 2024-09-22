@@ -61,6 +61,7 @@
 <td valign="top" width="33%">
  <!--------------------------------------------------------->
 <div align="center">  
+<br>
 
   <a href="#"><img alt="Reactjs" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"></a>
   &emsp; 
@@ -72,12 +73,18 @@
 
 
 
+   
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
+![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
+<hr>
+
+
+
 
 
 <table>
- <br>
- <br>
- <br>
 <td>
  <p>Technologies I'm interested to learn more </p
  <td>
@@ -103,18 +110,16 @@
  <!--------------------------------------------------------->
  
 <div align="center">  
- 
-![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-ccc?style=flat&logo=linux&logoColor=black)
-![virtualbox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-
-<hr>
 
 
 <table>
- <br>
- <br>
- <br>
+            <tr> 
+          <a href="https://leetcode.com/HELLOFLIX"> 
+            <img height="150em" src="https://leetcard.jacoblin.cool/Helloflix?theme=transparent&wtf&font=Hubballi&ext=heatmap" /> 
+          </a> 
+              </tr> 
+             
+ 
 <td>
  <p>Basic Skills</p>
  <td>
