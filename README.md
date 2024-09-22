@@ -113,16 +113,17 @@
 
 
 <table>
-            <tr> 
           <a href="https://leetcode.com/HELLOFLIX"> 
-            <img height="150em" src="https://leetcard.jacoblin.cool/Helloflix?theme=transparent&wtf&font=Hubballi&ext=heatmap" /> 
+            <img height="150em" src="https://leetcard.jacoblin.cool/Helloflix?theme=transparent&font=Hubballi&ext=heatmap" /> 
           </a> 
-              </tr> 
+           
+               
              
  
 <td>
  <p>Basic Skills</p>
  <td>
+
   
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -143,7 +144,6 @@
   &emsp; 
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
    &emsp;
-
 
 
 
