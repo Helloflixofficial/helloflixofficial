@@ -114,7 +114,7 @@
 
 <table>
           <a href="https://leetcode.com/HELLOFLIX"> 
-            <img height="150em" src="https://leetcard.jacoblin.cool/Helloflix?theme=transparent&font=Hubballi&ext=heatmap" /> 
+            <img height="150em" src="https://leetcard.jacoblin.cool/Helloflix?theme=transparent&font=Hubballi" /> 
           </a> 
            
                
