@@ -4,7 +4,7 @@
 <a href="https://github.com/helloflixofficial">
 <table>
   <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloflixofficial&hide_border=true&langs_count=12&layout=compact&theme=transparent" />
+      <img height="200em" src="https://helloflix.vercel.app/api/top-langs/?username=helloflixofficial&hide_border=true&langs_count=12&layout=compact&theme=transparent" />
   </td>
     <td>
      <a href="https://github.com/helloflixofficial">
@@ -13,7 +13,7 @@
     </td>
     <td>
        <a href="https://github.com/helloflixofficial">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://helloflixofficial.vercel.app?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
   </a>
     </td>
   </tr> 
