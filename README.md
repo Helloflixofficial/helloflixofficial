@@ -4,16 +4,16 @@
 <a href="https://github.com/helloflixofficial">
 <table>
   <td>
-      <img height="200em" src="https://helloflix.vercel.app/api/top-langs/?username=helloflixofficial&hide_border=true&langs_count=12&layout=compact&theme=transparent" />
+      <img height="200em" src="https://helloflix.vercel.app/api/top-langs/?username=helloflixofficial&hide_border=true&langs_count=12&layout=compact&theme=transparent&cache_seconds=180" />
   </td>
     <td>
      <a href="https://github.com/helloflixofficial">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helloflixofficial&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helloflixofficial&theme=transparent&cache_seconds=180" />
   </a>
     </td>
     <td>
        <a href="https://github.com/helloflixofficial">
-    <img src="https://helloflixofficial.vercel.app?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://helloflixofficial.vercel.app?user=helloflixofficial&hide_border=true&card_width=338&theme=transparent&cache_seconds=180" />
   </a>
     </td>
   </tr> 
@@ -23,7 +23,7 @@
 
 <div align="center">
 <a href="https://github.com/helloflixofficial">
-    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent" />
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helloflixofficial&theme=transparent&cache_seconds=1800" />
   </a>
 </div>
 <!----------------------------------------------------------------------------------------------------------------------------------------------->
